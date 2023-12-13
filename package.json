@@ -4,18 +4,25 @@
     "description": "",
     "main": "app.js",
     "scripts": {
-        "pre-copy": "cd .. && npm run  copy.lib base-baileys-memory",
-        "start": "node app.js"
+        "dev": "nodemon src/app.js"
     },
     "keywords": [],
     "dependencies": {
+        "@adiwajshing/baileys": "github:WhiskeySockets/Baileys",
+        "@adiwajshing/keyed-db": "^0.2.4",
         "@bot-whatsapp/bot": "latest",
         "@bot-whatsapp/cli": "latest",
         "@bot-whatsapp/database": "latest",
-        "@bot-whatsapp/provider": "latest",
         "@bot-whatsapp/portal": "latest",
-        "@adiwajshing/baileys": "github:WhiskeySockets/Baileys",
-        "@adiwajshing/keyed-db": "^0.2.4",
+        "@bot-whatsapp/provider": "latest",
+        "axios": "^1.5.0",
+        "chatgpt": "^5.2.5",
+        "dotenv": "^16.3.1",
+        "mime-types": "^2.1.35",
+        "nanoid": "^5.0.1",
+        "nodemon": "^3.0.1",
+        "openai": "^3.3.0",
+        "stripe": "^13.7.0",
         "wa-sticker-formatter": "4.3.2"
     },
     "author": "",

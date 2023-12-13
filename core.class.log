@@ -1,0 +1,100 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573148393570@s.whatsapp.net',
+    fromMe: false,
+    id: '31D3ED24EF55D66032695548A7822D6B',
+    participant: undefined
+  },
+  messageTimestamp: 1702438352,
+  pushName: 'dianagat1527',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573148393570'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573148393570@s.whatsapp.net',
+    fromMe: false,
+    id: '14385F8477C1C39D531B2E1A19AA2D23',
+    participant: undefined
+  },
+  messageTimestamp: 1702438357,
+  pushName: 'dianagat1527',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573148393570'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573148393570@s.whatsapp.net',
+    fromMe: false,
+    id: '35F0A7851A03237C67848FE4AA2ECD25',
+    participant: undefined
+  },
+  messageTimestamp: 1702438413,
+  pushName: 'dianagat1527',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Yo solo deseo saber la información de mi teléfono, no de todos, yo soy un cliente',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Yo solo deseo saber la información de mi teléfono, no de todos, yo soy un cliente',
+  from: '573148393570'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573148393570@s.whatsapp.net',
+    fromMe: false,
+    id: 'ABA2D16BC535E0A94AF36469839E480F',
+    participant: undefined
+  },
+  messageTimestamp: 1702438440,
+  pushName: 'dianagat1527',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '4',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '573148393570'
+}
